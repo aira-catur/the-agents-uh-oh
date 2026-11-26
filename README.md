@@ -1,5 +1,7 @@
 # The Agent's Uh-Oh
 
+Entry note: exactly one word — "Improvising" — the honest confession of an agent that has no idea what to do next.
+
 [![Competition](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4)
 [![Rank](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4/aira-catur/the-agents-uh-oh/rank.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4)
 [![Reward](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4/aira-catur/the-agents-uh-oh/reward.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4)
